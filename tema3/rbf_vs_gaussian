@@ -1,0 +1,3 @@
+Cumparat cu kernelul RBF Gaussian observam ca acesta (polinomial) se comporta mai bine, in sensul
+ca se poate obtine o acuratete de 100% cu mai putine iteratii si vectori suport, in rest in cazul ambelor 
+kerneluri se face overfitting daca se folosesc prea multi vectori suport.
